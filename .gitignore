@@ -1,8 +1,9 @@
 data/livivo/*
+data/gesis-search/*
+index/convert/*
 __pycache__/
 .idea/
 indexes/
 convert/
 
 venv
-data
