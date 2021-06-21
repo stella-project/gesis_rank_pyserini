@@ -1,6 +1,7 @@
 data/livivo/*
 data/gesis-search/*
 index/convert/*
+index/*
 __pycache__/
 .idea/
 indexes/
